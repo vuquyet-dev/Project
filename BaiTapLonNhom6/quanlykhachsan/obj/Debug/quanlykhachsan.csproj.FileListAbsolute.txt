@@ -1,0 +1,459 @@
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csprojAssemblyReference.cache
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Sudungdichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Traphong.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+D:\Thuc Hanh C#\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.csprojAssemblyReference.cache
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.Sudungdichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.Traphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver1\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.csprojAssemblyReference.cache
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.Sudungdichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.Traphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver1.5\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.csprojAssemblyReference.cache
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.Sudungdichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong2.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.Traphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver2\quanlykhachsan\obj\Debug\quanlykhachsan.traphong2.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.csprojAssemblyReference.cache
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.Sudungdichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.sudungdv.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong2.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.Traphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.traphong2.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.thongtin.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.hoadonphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.QL_HOADON.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.testdv.resources
+D:\Thuc Hanh C#\quanlykhachsan ver3\quanlykhachsan\obj\Debug\quanlykhachsan.hoadondichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.csprojAssemblyReference.cache
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.frmGiaodienchinh.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.hoadondichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.hoadonphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.QLPhong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.QL_HOADON.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.sudungdv.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.testdv.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.thongtin.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.traphong2.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.qlhoadondv.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.chitiethoadondv.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUPHONG.resources
+D:\Thuc Hanh C#\quanlykhachsan ver4\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUDV.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.AssemblyReference.cache
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.chitiethoadondv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.hoadondichvu.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.QL_HOADON.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.sudungdv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.thongtin.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemkhachhang.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.timkiemphong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUDV.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUPHONG.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\EnvDTE.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\stdole.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\Microsoft.MSXML.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CopyComplete
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\RdlCompile.cache
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\RdlCompile.compiled
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.Dangnhap.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.Trangchu.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.Inhoadondv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.Inhoadonphong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Hoadondv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Phong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.Chitietsudungdv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.Traphong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\quanlykhachsan ver5\quanlykhachsan\obj\Debug\quanlykhachsan.Hoadontraphong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\EnvDTE.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\stdole.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\Microsoft.MSXML.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.AssemblyReference.cache
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.Chitiethoadondv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.Dangnhap.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.Trangchu.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.Inhoadondv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.Inhoadonphong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.Hoadondichvu.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.Hoadontraphong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Hoadondv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Phong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Hoadon.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.sudungdv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.Chitietsudungdv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.Thongtin.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.Timkiemkhachhang.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.Timkiemphong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUDV.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUPHONG.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.Traphong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\RdlCompile.cache
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\RdlCompile.compiled
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CopyComplete
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLon\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\EnvDTE.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\stdole.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\Microsoft.MSXML.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.Chitiethoadondv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.Dangnhap.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.Trangchu.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.Inhoadondv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.Inhoadonphong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.Hoadondichvu.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.Hoadontraphong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Hoadondv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Phong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Dichvu.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Hoadon.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.QL_Khachhang.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.sudungdv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.Chitietsudungdv.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.Thongtin.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.Thuephong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.Timkiemkhachhang.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.Timkiemphong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUDV.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.TKDOANHTHUPHONG.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.Traphong.resources
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.cache
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\RdlCompile.cache
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\RdlCompile.compiled
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CopyComplete
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+C:\Users\quyet\OneDrive\Documents\Tài liệu DHTI15A21\Thực tập\BaiTapLonNhom6\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
