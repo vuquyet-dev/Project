@@ -1,0 +1,95 @@
+
+.container{
+    width: 1200px;
+    margin: 0 auto; 
+}
+
+header{
+    width: 100%;
+    height: 144px;
+    background-image: url('../images/header/header_images3.jpg');
+    background-size: contain;
+    background-repeat: repeat-x;
+}
+ul{
+    background-image: url('../images/background.jpg');
+}
+
+nav {
+    width: 100%;
+    background-color: green;
+    height: 40px;
+    position: relative;
+    z-index: 1;
+}
+nav .chao{
+    widows: 75px;
+    position: absolute;
+    right: 25px;
+    top: 0;
+}
+
+nav .tim{
+    text-align: center;
+    width: 75px;
+    height: 40px;
+    color: #fff;
+    background: #3cf;
+    border: 1px solid #fff;
+    margin-right: 15px;
+    line-height: 40px;
+}
+nav .tim:hover{
+    color: #fff;
+    background-color: #000;
+}
+
+
+
+
+.map-section{
+    width: 100%;
+    margin: 50px 0 50px;
+    background-image: url('../images/background.jpg');;
+}
+.col-full{
+    width: 100%;
+}
+footer{
+    clear: both;
+    width: 100%;
+    height: 50px;
+    color: white;
+    background-color: orange;
+    font-size: 18px;
+    text-align: center;
+    line-height: 50px;
+    margin-top: 40px;
+}
+#footer{
+    margin-top: 50px;
+    text-align: center;
+}
+
+#footer .socials-list{
+    font-size: 24px;
+}
+
+#footer .socials-list a{
+    color: rgba(0, 0, 0, 0.7);
+}
+#footer .copy-right a:hover,
+#footer .socials-list a:hover{
+    color: rgba(0, 0, 0, 0.4);
+}
+
+#footer .copy-right{
+    margin-top: 15px;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+#footer .copy-right a{
+    color: rgba(0, 0, 0, 0.7);
+}
+
+

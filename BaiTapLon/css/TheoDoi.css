@@ -1,0 +1,16 @@
+.menu_theodoi{
+    width: 100%;
+}
+.first_head_theodoi {
+    color: #F6AB3C;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+.infor_theodoi{
+    text-align: center;
+    width: 100%;
+}
+.image_theodoi{
+    margin: 30px auto 0;
+    width: max-content;
+}

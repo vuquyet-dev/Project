@@ -1,0 +1,108 @@
+/* Tổng thể */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+/* Khung menu_monan - full chiều ngang trang */
+.menu_monan {
+    width: 100%; /* Chiếm toàn bộ chiều ngang */
+    text-align: center;
+    background: #ffffff;
+    /* box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); */
+    padding: 20px 0; /* Tạo khoảng trống trên và dưới */
+}
+
+
+.first_head_name{
+    color: #F6AB3C;
+    font-size: 45px;
+    text-transform: uppercase;  
+    margin: 20px 0;
+}
+
+.second_head_name{
+    font-size: 18px;
+    margin-top: 5px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+/* Menu */
+.food_menu {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Khoảng cách giữa các nút */
+    margin-bottom: 50px;
+}
+
+/* Thẻ div chứa link - thêm background ảnh */
+.button_menu {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 15px;
+    transition: transform 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    
+}
+
+.button_menu:hover{
+    transform: scale(1.1); /* Phóng to 10% */
+    color: red;
+    font-size: 18px;
+}
+
+.first_menu{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+                url('../images/background_menufood/khaivi.jpg');
+    background-size: cover; /* Phủ toàn bộ div */
+    background-position: center; /* Canh giữa ảnh */
+    background-repeat: no-repeat; /* Không lặp ảnh */
+}
+.second_menu{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+                url('../images/background_menufood/thucdonchinh.jpeg'); 
+    background-size: cover; /* Phủ toàn bộ div */
+    background-position: center; /* Canh giữa ảnh */
+    background-repeat: no-repeat; /* Không lặp ảnh */
+}
+.third_menu{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+                url('../images/background_menufood/trangmieng.jpg'); 
+    background-size: cover; /* Phủ toàn bộ div */
+    background-position: center; /* Canh giữa ảnh */
+    background-repeat: no-repeat; /* Không lặp ảnh */  
+}
+.fourth_menu{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+                url('../images/background_menufood/douong.png');
+    background-size: cover; /* Phủ toàn bộ div */
+    background-position: center; /* Canh giữa ảnh */
+    background-repeat: no-repeat; /* Không lặp ảnh */
+}
+
+/* Liên kết */
+.name_menu {
+    text-decoration: none;
+    display: inline-block;
+    
+    color: #ffffff;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    width: 100%;
+    padding: 91px 0;
+}
+
+.name_menu:hover {
+    
+}

@@ -1,0 +1,85 @@
+<?php
+    session_start();
+    ob_start();
+    include('ketnoi.php');
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/giaodientrangchu.css">
+    <?php
+        if(($_SESSION["lgadmin"] == null) || ($_SESSION["lgadmin"] == "")) {
+            header("location:DangNhap.php");
+        }
+    ?>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="../css/style_DSthemsuaxoa.css">
+</head>
+<body>
+
+        <?php include('../giaodien/Tieude.php'); ?>
+        <?php include('../giaodien/MenuNgang.php'); ?>
+        <article>
+            <h1>THÔNG TIN CÁC ĐỒ UỐNG</h1>
+            <div>
+                <div class="themmoi">
+                    <a href="4Them_DoUong.php">Thêm Đồ Uống</a>
+                </div>
+                <div>
+                    <form action="4xuly_TimDoUong.php" method="get" class="timkiem">
+                        <input type="text" name="timkiem" placeholder="Nhập từ khóa...">
+                        <input type="submit" value="Tìm kiếm">
+                    </form>
+                </div>
+            </div>
+        
+            <?php
+                $tk = $_GET['timkiem'];
+                $db = "SELECT douong.id as ID,
+                        douong.tenmon as Tenmon,
+                        douong.gia as Gia,
+                        douong.thanhphan as Thanhphan,
+                        douong.thongtinmon as Thongtinmon,
+                        douong.hinhanh as Hinhanh,
+                        loaidouong.loaimon as Loaimon
+                        FROM douong
+                        INNER JOIN loaidouong ON douong.loaimon = loaidouong.loaimon
+                            WHERE douong.tenmon LIKE '%$tk%' 
+                            OR loaidouong.loaimon LIKE '%$tk%' 
+                            OR douong.gia LIKE '%$tk%'";
+                $result = mysqli_query($conn, $db); 
+
+                if(mysqli_num_rows($result) == 0) {
+                    echo "Không tìm thấy sản phẩm nào  ";
+                } else {
+                    while($row = mysqli_fetch_array($result)) { ?>
+                        <div class="khungsp">
+                            <div class="tt"><?php echo $row['ID']; ?></div>
+                            <img src="../images/Douong/<?php echo $row['Hinhanh'] ?>" alt="Image">
+                            <div class="thongtin">
+                                <h2><?php echo $row['Tenmon']; ?></h2>
+                                <p>
+                                    <b>Thành phần:</b> <?php echo $row['Thanhphan']; ?><br>
+                                    <b>Thông tin món:</b> <?php echo $row['Thongtinmon']; ?><br> 
+                                </p>
+                                <p><b>Loại món:</b> <?php echo $row['Loaimon']; ?> &nbsp;&nbsp;|  <b>Giá:</b> <?php echo number_format($row['Gia'], 0, ',', '.'); ?>đ</p>
+                            </div>
+                            <div class="sua">
+                                <a style="text-decoration: none;" href="4Sua_DoUong.php?id=<?php echo $row['ID']; ?>">Sửa</a>
+                            </div>
+                            <div class="xoa">
+                                <a style="text-decoration: none;" href="4Xoa_DoUong.php?id=<?php echo $row['ID']; ?>" onclick="return confirm('Bạn có chắc muốn xóa món này không?');">Xóa</a>
+                            </div>
+                        </div>
+                    <?php }
+                }
+            ?>
+            
+            </div>
+        </article>
+        <?php include('../giaodien/Footer.php'); ?>
+</body>
+</html>

@@ -1,0 +1,45 @@
+.container_khonggian {
+    height: 300px;
+    margin-top: 50px;
+    /* box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); */
+    background-image: url('../images/background.jpg');
+    padding: 45px;
+}
+.image-section{
+    background-image: url('../images/Khonggian/ha_long.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 24%;
+    height: 190px;
+    margin-top: 50px;
+    float: left;
+    margin-left: 16%;
+}
+.content-section{
+    float: left;
+    width: 60%;
+    margin-left: -8px;
+}
+.content-body>li{
+    margin: 10px 0;
+}
+h1 {
+    margin-left: 150px;
+    text-transform: uppercase;
+    color: #F6AB3C;
+}
+span.highlight {
+    font-weight: bold;
+}
+.content-body{
+    margin-left: 50px;
+    width: 514px;
+    color: #F6AB3C;
+    font-style: italic;
+}
+.chitiet{
+    float: right;
+    padding: 8px;
+    border-radius: 15px;
+    background-color: cornflowerblue;
+}

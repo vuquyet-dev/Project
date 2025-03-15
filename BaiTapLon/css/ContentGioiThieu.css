@@ -1,0 +1,57 @@
+/* Tổng thể */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+
+}
+
+/* Khung menu_monan - full chiều ngang trang */
+.menu_gioithieu {
+    width: 100%; /* Chiếm toàn bộ chiều ngang */
+    
+    background: #ffffff;
+    /* box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); */
+    padding: 20px 0; /* Tạo khoảng trống trên và dưới */
+    display: flex;
+
+}
+
+
+.first_head_name{
+    color: #F6AB3C;
+    font-size: 45px;
+    text-transform: uppercase;  
+    margin: 20px 0;
+}
+
+.second_head_name{
+    font-size: 18px;
+    margin-top: 5px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.infor{
+    width: 42%;
+    
+    padding: 46px 0;
+    
+    font-family: Arial, sans-serif;
+}
+.contentgt{
+    color: #666;
+    font-style: italic;
+    
+}
+.image{
+    width: max-content;
+    margin-left: 200px;
+}
+img{
+    width: 230px;
+}
+.image img:last-child {
+    margin-right: 0; /* Loại bỏ khoảng cách sau ảnh cuối cùng */
+}
